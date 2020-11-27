@@ -1,0 +1,54 @@
+.topBar{
+    border-bottom: 5px solid rgb(171, 207, 231);
+    background-color: rgb(68, 174, 245);
+    height: 100px;
+    padding-top:10px;
+    box-sizing: border-box;
+    border-radius: 0px 0px 30px 30px;
+    box-shadow: 0px 0px 6px black;
+    color: black;
+    font-size: 1.4em;
+}
+.align{
+    text-align: center;
+    display: inline;
+    width: 75%;
+}
+#heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.topBar .productSelection{
+    margin-left: 10%;
+    float: left;
+    position: relative;
+}
+.topBar .dropdown{
+    margin-left: 0.75em;
+    width: 100px;
+    height: 35px;
+    position: relative;
+}
+
+
+.topBar .sortMenu{ 
+    float: right;
+    margin-right: 10%;
+    position: relative;
+}
+.topBar .dropSort{
+    margin-left: 0.75rem;
+    height: 35px;
+    position: relative;
+}
+.topBar option{
+    height: 35px;
+}
+
+
+  
+
+

@@ -1,0 +1,24 @@
+.container{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+.topPane{
+    text-align: center;
+    left: 12.5%;
+    right: 12.5%;
+    top: 0;
+    position: fixed;
+    width: 75%;
+    }
+.reviewPane{
+    top: 100px;
+    position: relative;
+    overflow: auto;
+    top: 102px;
+}
+
+
+   
+    

@@ -1,0 +1,35 @@
+
+.user{
+    font-size: 1.2em;
+    font-weight: 500;
+}
+.username{
+    float: left;
+}
+.date{
+    float: right;
+    color: rgb(71, 71, 71);
+    font-size: smaller;
+    font-weight: 200;
+}
+.reviewText{
+    border: 1px solid rgb(104, 103, 103);
+    border-radius: 5px;
+    padding: 10px;
+}
+.heading{
+    font-weight: 600;
+}
+.reviewVersion{
+    float: right;
+    color: rgb(71, 71, 71);
+    font-size: medium;
+    font-weight: 600;
+}
+.reviewCountry{
+    font-size: x-large;
+    float:left;
+}
+.footer{
+margin-top: 5px;
+}

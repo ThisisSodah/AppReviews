@@ -1,0 +1,105 @@
+div .reviewSection{
+    width: 75%;
+    float: right;
+    position: relative;
+    box-sizing: border-box;
+    height: 937px;
+
+    
+}
+li{
+    list-style: none;
+}
+ul{
+    padding: 30px;
+    padding-bottom: 60px;
+}
+
+.reviewBox :hover{
+    background-color: rgb(172, 218, 245);
+    border-radius: 5px;
+}
+
+.reviewBox{
+    border-left: solid 5px rgb(68, 174, 245);
+    background-color: rgb(171, 207, 231);
+    box-shadow:0px 0px 6px black;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+    
+}
+.filterPane{
+    margin-top: 20px;
+    width: 25%;
+    height: 100%;
+    float: left;
+    border-right: solid 5px rgb(171, 207, 231);
+    border-top: solid 2px rgb(171, 207, 231);
+    border-radius: 15px;
+    padding:10px;
+    position: fixed;
+    background-color:rgb(68, 174, 245);
+    box-sizing: border-box;
+    color: black;
+    font-size: 1.1em;
+    box-shadow:0px 0px 6px black;
+    font-size: 1.4rem;
+}
+.search{
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+    
+}
+.textField{
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.calender{
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.from{
+padding-right:10px;
+}
+.to{
+padding-right:10px;
+}
+.fromDate{
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    
+    border: 2px solid rgb(5, 66, 107); 
+    border-radius: 6px;  
+    margin-right: 20px;
+    text-align: center;
+}
+.toDate{
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    
+    border: 2px solid rgb(5, 66, 107); 
+    border-radius: 6px;
+    min-width: 100px;
+    text-align: center;
+}
+.calender label{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+Select{
+    width: 50%;
+}
+
+
+
